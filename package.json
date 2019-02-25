@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pikachu69/ejercicio03-silva.git"
+  },
+  "author": "Eduardo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pikachu69/ejercicio03-silva/issues"
+  },
+  "homepage": "https://github.com/Pikachu69/ejercicio03-silva#readme",
+  "devDependencies": {
+    "number-to-words": "^1.2.4"
+  }
+}
